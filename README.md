@@ -4,12 +4,6 @@ A cyberpunk-themed, interactive mechanical vault combination lock mini-game buil
 
 ---
 
-##  Live Gameplay & Overview
-
-Players must crack a randomized 3-digit combination (`0` to `99`) to breach the high-security **Titan VK-90 Vault**.
-
----
-
 ##  Features
 
 - ** Dual Controller Mechanisms**:
