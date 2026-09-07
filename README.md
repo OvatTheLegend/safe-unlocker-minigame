@@ -79,15 +79,4 @@ Make sure you have **Node.js 18+** installed on your machine.
    http://localhost:3000/safe
    ```
 
----
-
-##  Game Rules
-
-1. Select your preferred input mechanism (**Vertical Slider** or **Circular Rotary Dial**).
-2. Rotate the controller to align the digital display with the target tumbler number.
-3. Click **`TEST / UNLOCK`** to engage the tumbler pin:
-   - **Correct:** The current pin lights up **Green** and advances to the next tumbler pin.
-   - **Incorrect:** Read the telemetry clues to gauge how close you are to the secret number.
-4. Unlock all **3 Pins** to breach the vault and claim victory!
-
 
